@@ -2,19 +2,20 @@
 
 This project is a fully responsive website UI developed using **React.js** and **Tailwind CSS**. It includes dynamic elements like a testimonial slider powered by **Swiper.js** and icons integrated through the **React Icons** library.
 
+
+
+🛠️ Technologies Used
+
+⚛️ React.js
+🎨 Tailwind CSS
+💬 Swiper.js
+✨ React Icons
 ## Features
 
 - **Responsive Design**: Built with Tailwind CSS for seamless adaptation across devices.
 - **Testimonial Section**: Interactive slider implemented using Swiper.js.
 - **Icons**: Enhanced visuals using the React Icons library.
 - **Clean and Modern UI**: Designed with a focus on user experience and aesthetics.
-
-## Technologies Used
-
-- **React.js**: For building the user interface.
-- **Tailwind CSS**: For styling and layout.
-- **Swiper.js**: For the testimonial slider.
-- **React Icons**: For adding visually appealing icons.
 
 ## Installation
 
